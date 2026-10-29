@@ -1,0 +1,7 @@
+{
+  "vps_url": "https://example.invalid",
+  "vps_api_key": "REPLACE_WITH_LOCAL_TEST_KEY",
+  "node_url": "http://127.0.0.1:8790",
+  "node_key": "REPLACE_WITH_LOCAL_TEST_KEY",
+  "multi_account": false
+}

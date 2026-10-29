@@ -1,0 +1,23 @@
+{
+  "version": "review-example",
+  "job_id": "EXAMPLE_JOB_NOT_REAL",
+  "client_id": "EXAMPLE_USER_NOT_REAL",
+  "timestamp": 0,
+  "send_all": true,
+  "eggs": [
+    {
+      "event_id": "EXAMPLE_JOB_NOT_REAL:slot:Titan Temple:1:g0",
+      "uid": "EXAMPLE_EGG_001",
+      "egg_name": "Mutant Shark Egg",
+      "pet_name": "Mutant Shark",
+      "rarity": "Secret",
+      "biome": "Titan Temple",
+      "scale": 2.3,
+      "mutations": ["Rainbow"],
+      "source": "world_spawn",
+      "source_confidence": 0.99,
+      "area_state": "slot"
+    }
+  ],
+  "live_eggs": []
+}
